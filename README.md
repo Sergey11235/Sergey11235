@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sergey11235
+- 👋 Hi, My name is Sergey! I'm 45 years old!
 - 👀 I’m interested in JavaScript Front-end
 - 🌱 I’m currently learning this course
 - 💞️ I’m looking to collaborate on the development of joint programs
